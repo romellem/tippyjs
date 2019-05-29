@@ -1,3 +1,7 @@
+### Note
+
+This is a fork, reverted back to [v2.6.0](https://github.com/atomiks/tippyjs/releases/tag/v2.6.0). This is so I can have a Github Pages site with the 2.6.0 documenation.
+
 # Tippy.js
 
 [![Build Status](https://travis-ci.org/atomiks/tippyjs.svg?branch=master)](https://travis-ci.org/atomiks/tippyjs)
