@@ -13,7 +13,7 @@ Tippy.js is a highly customizable vanilla JS tooltip/popover library powered by 
 
 ## Demo and documentation
 
-https://atomiks.github.io/tippyjs/
+https://romellem.github.io/tippyjs/
 
 ## Installation
 
@@ -67,7 +67,7 @@ CDN: https://unpkg.com/tippy.js/dist/
 </html>
 ```
 
-View the [docs](https://atomiks.github.io/tippyjs/) for details on all of the options you can supply to customize tooltips to suit your needs.
+View the [docs](https://romellem.github.io/tippyjs/) for details on all of the options you can supply to customize tooltips to suit your needs.
 
 ## API
 
