@@ -1,11 +1,19 @@
 {
-  "presets": ["@babel/env", "@babel/typescript"],
-  "plugins": [
-    ["@babel/proposal-object-rest-spread", { "loose": true }, "unique"]
-  ],
+  "presets": [["env", { "modules": false }], "stage-2"],
+  "plugins": [["transform-react-jsx", { "pragma": "h" }]],
   "env": {
     "test": {
-      "presets": [["@babel/env", { "targets": { "node": "current" } }]]
+      "presets": [
+        [
+          "env",
+          {
+            "targets": {
+              "node": "current"
+            }
+          }
+        ],
+        "jest"
+      ]
     }
   }
 }
